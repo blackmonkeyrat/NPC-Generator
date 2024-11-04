@@ -1,2 +1,1 @@
-# NPC-Generator
-My NPC Generator
+## NPC-Generator
