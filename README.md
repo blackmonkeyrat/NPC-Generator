@@ -37,7 +37,7 @@ currently learning python. We had to do this project to show what we learned in 
 
 ## 💻 Code Example
 
-*Demonstrate a main feature or output of your software in action!*
+The most important piece of code in my program was the for loop.
 
 ```python
 >>> import mypackage
