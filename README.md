@@ -29,12 +29,11 @@ program was for a school project. The scenario was where I had to create an NPC 
 video game. The game developers already designed the main characters, but needed an algorithm to create
 diverse NPCs. My goal was to produce at least 10 of these NPCs.
 
-A concise paragraph explaining the purpose of your program, its use cases, and the motivation behind creating it. 
-You can also include a link to a demo video here.
-
 ### 👨‍💻 Authors
 
-A brief introduction about yourself, along with a link to your [GitHub](https://github.com) or personal website.
+My name is Armaan and I was tasked with creating a NPC generator. I am in the Computer Science Program at
+Voorhees, and this is one of the projects I had to complete for a grade. I am in 9th grade, and we are 
+currently learning python. We had to do this project to show what we learned in this class.
 
 ## 💻 Code Example
 
