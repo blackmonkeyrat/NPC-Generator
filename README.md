@@ -40,7 +40,21 @@ currently learning python. We had to do this project to show what we learned in 
 The most important piece of code in my program was the for loop.
 
 ```python
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
+for i in range(10):
+    #Asks for input of NPC name and stores in variable
+    npc1 = input('Enter an NPC name: ')
+    #Chooses random age from ages list and stores in variable
+    age1 = random.choice(ages)
+    #Chooses random height from heights list and stores in variable
+    height1 = random.choice(heights)
+    #Chooses a number between 1-10000 and stores in variable
+    power1 = random.randint(1, 10000)
+    #Chooses random eyecolor from eyecolors list and stores in variable
+    eyecolor1 = random.choice(eyecolors)
+    #Adds all this data to a list
+    npc.append(npc1)
+    npc.append(age1)
+    npc.append(height1)
+    npc.append(power1)
+    npc.append(eyecolor1)
 ```
