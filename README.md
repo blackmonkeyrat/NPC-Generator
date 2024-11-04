@@ -58,3 +58,7 @@ for i in range(10):
     npc.append(power1)
     npc.append(eyecolor1)
 ```
+
+This piece of code was really important because it gathered all the data of the NPC, and
+appended all the data into one list. This then allowed me to print all the data for
+the user to see.
